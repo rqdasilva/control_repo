@@ -1,2 +1,2 @@
-mod 'pltraining/docker'
+mod 'pltraining/dockeragent'
 mod 'garethr/docker'
